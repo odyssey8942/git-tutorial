@@ -5,3 +5,5 @@ for num in 1..100 do
     puts "Buzz"
   elsif num % 3 == 0
     puts "Fizz"
+  else
+    puts num
